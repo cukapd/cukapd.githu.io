@@ -3,7 +3,7 @@ title: How to Read and Send other phone's all SMS & OTP remotely spy hidden app 
 published: true
 ---
 
-# [](#header-6) Steps:
+##### Steps:
 
 `--- On victim phone ---`
 
