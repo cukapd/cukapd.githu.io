@@ -28,5 +28,6 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Goon"
-year : "2021"
+owner: "Goon"
+year: "2021"
+google_analytics: 
