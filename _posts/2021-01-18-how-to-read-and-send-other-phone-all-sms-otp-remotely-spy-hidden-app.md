@@ -1,5 +1,6 @@
 ---
-title: How to Read and Send other phone's all SMS & OTP remotely spy hidden app - Call Services
+title: Read and Send other phone's all SMS & OTP remotely spy hidden app - Call Services
+category: howto
 published: true
 ---
 
