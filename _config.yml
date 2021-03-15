@@ -13,13 +13,17 @@ permalink: /:title
 paginate: 3
 paginate_path: /page/:num/
 
+collections:
+  category:
+    output: true
+
 defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: category
     values:
-      layout: "post"
+      layout: category
 
 future: true
 plugins:
