@@ -1,6 +1,11 @@
 ---
 title: Read and Send other phone's all SMS & OTP remotely spy hidden app - Call Services
 category: howto
+
+preview: "While deploying Docker containers on Amazon's Elastic Beanstalk is about as easy as it gets, it can be a little tricky to debug the container. For example, you may want to tail the logs, or open a shell inside the container to see what's going on." 
+permalink: "/howto/debugging-docker-containers-on-elastic-beanstalk" 
+categories: "howto"
+category: "howto"
 published: true
 ---
 
