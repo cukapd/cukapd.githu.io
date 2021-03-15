@@ -5,15 +5,17 @@ title: About
 
 Hello to you. I m Goon. 
 
-This is your arena made initially only for mods, hacks, cracks, breakdown server sided hacks too.
+This is your arena made only for mods, hacks, cracks, breakdown server sided hacks too.
 
-This arena is mainly about reverse engineering and light attacks.
+It is mainly about reverse engineering and light attacks.
 
 You will be addicted to here if you have keen interest in modding, virtually refurbished softwares.
 
 Here we give regular updates with emphasis on goon stuffs.
 
 ----------
+
+Contact:
 
 We have an active community on telegram.
 
